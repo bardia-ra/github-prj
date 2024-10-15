@@ -31,7 +31,7 @@ main{
     column-gap: 5px;
 }
 .box{
-    width: 33.33%;
+    width: 27%;
     border: 5px solid;
     border-radius: 7px;
     height: 250px;
